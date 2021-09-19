@@ -1,6 +1,6 @@
 ### Tic Tac Toe
 Play Tic-tac-toe
-
+<img alt="Tic tac toe" src="https://user-images.githubusercontent.com/23083888/133932797-b95fef71-c99d-4275-9183-d07095806a72.png" width="160px">
 ## 🧪 Technologies
 
 This project uses the following technologies:
